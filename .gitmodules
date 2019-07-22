@@ -1,0 +1,21 @@
+[submodule "CB-Eureka"]
+	path = CB-Eureka
+	url = https://github.com/hcl-tools/CB-Eureka
+[submodule "CB-Movies"]
+	path = CB-Movies
+	url = https://github.com/hcl-tools/CB-Movies
+[submodule "CB-Ratings"]
+	path = CB-Ratings
+	url = https://github.com/hcl-tools/CB-Ratings
+[submodule "CB-Users"]
+	path = CB-Users
+	url = https://github.com/hcl-tools/CB-Users
+[submodule "CB-Comments"]
+	path = CB-Comments
+	url = https://github.com/hcl-tools/CB-Comments
+[submodule "CB-Times"]
+	path = CB-Times
+	url = https://github.com/hcl-tools/CB-Times
+[submodule "CB-FrontEnd"]
+	path = CB-FrontEnd
+	url = https://github.com/hcl-tools/CB-FrontEnd
